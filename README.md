@@ -9,9 +9,9 @@
 
 - 🏁 I’m making a progress on a **Feed & Stories mockup:**
 
-    - 🔗 **Feed: vercel-nice-comments.vercel.app/feed**
+    - 🔗 **Feed: https://vercel-nice-comments.vercel.app/feed**
 
-    - 🔗 **Stories: vercel-nice-comments.vercel.app/stories**
+    - 🔗 **Stories: https://vercel-nice-comments.vercel.app/stories**
 
 - 🌱 I’m currently learning **Springboot**
 
