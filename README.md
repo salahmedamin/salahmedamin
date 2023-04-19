@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahmedamin" alt="salahmedamin" /></a> </p>
 
-- 🔭 I’m currently working on **a house rental/selling website with map features** ::for a client::
+- 🔭 I’m currently working on **a house rental/selling website with map features** __for a client__
 
 - 🏁 I’m making a progress on a **Feed & Stories mockup:**
 
