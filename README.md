@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **a house rental/selling website**
 
+- 🏁 I’m making a progress on a **Feed & Stories mockup**: vercel-nice-comments.vercel.app/feed | vercel-nice-comments.vercel.app/stories
+
 - 🌱 I’m currently learning **Springboot**
 
 - 👯 I’m looking to collaborate on **METABASE**
