@@ -5,25 +5,39 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahmedamin" alt="salahmedamin" /></a> </p>
 
-- 🔭 I’m currently working on **a house rental/selling website with map features** <u>for a client</u>
+- 🔭 I’m currently working on **House Rental/Selling Platform** having:
+    - **Real time user interactions (system notifications, preferred categories' notifications, messages, reports,...)**
+    - **An integrated map synched with database**
+    - **Booking system with a bidding feature to be integrated in near future**
 
-- 🏁 I’m making a progress on a **Feed & Stories mockup:**
+- 🏁 I’m making a progress on a **Feed & Stories Mockup** personal project:
 
     - 🔗 **Feed: https://vercel-nice-comments.vercel.app/feed**
 
     - 🔗 **Stories: https://vercel-nice-comments.vercel.app/stories**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning:
+    - **Springboot**
+    - **Kafka**
 
-- 👯 I’m looking to collaborate on **METABASE**
-
-- 🤝 I’m looking for help with **my engineering studies**
-
-- 💬 Ask me about **ReactJS, Redux, NodeJS, Prisma.io, GraphQL, SQL, PHP, Python, Grafana, Clean Code, Problem Solving, HTTP (Protos. & Codes)**
+- 💬 Ask me about:
+    - **ReactJS**
+    - **Redux**
+    - **NodeJS**
+    - **Socket.io**
+    - **Prisma.io**
+    - **GraphQL**
+    - **SQL**
+    - **PHP**
+    - **Python**
+    - **Grafana**
+    - **Clean Code**
+    - **Problem Solving**
+    - **HTTP (Protocols. & Codes)**
 
 - 📫 How to reach me **salahmedamin2019@gmail.com**
 
-- ⚡ Fun fact **I lose sleep when I'm working a lot, heard it happens a lot to devs**
+- ⚡ Fun fact: **Wokring on things I love, makes me lose sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
