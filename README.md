@@ -7,7 +7,11 @@
 
 - 🔭 I’m currently working on **a house rental/selling website**
 
-- 🏁 I’m making a progress on a **Feed & Stories mockup**: vercel-nice-comments.vercel.app/feed | vercel-nice-comments.vercel.app/stories
+- 🏁 I’m making a progress on a **Feed & Stories mockup:**
+
+    - 🔗 **Feed: vercel-nice-comments.vercel.app/feed**
+
+    - 🔗 **Stories: vercel-nice-comments.vercel.app/stories**
 
 - 🌱 I’m currently learning **Springboot**
 
