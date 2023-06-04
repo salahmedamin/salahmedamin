@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I am Mohamed Amine Salah</h1>
-<h3 align="center">A person adoring all about JS, Data Viz and probably a bit of JAVA too</h3>
+<h3 align="center">A person adoring all about javascript, data visualisation and, a bit of JAVA too</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahmedamin&label=Profile%20views&color=0e75b6&style=flat" alt="salahmedamin" /> </p>
 
@@ -16,7 +16,7 @@
 
     - 🔗 **Stories: https://vercel-nice-comments.vercel.app/stories**
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently practicing:
     - **Springboot**
     - **Kafka**
 
@@ -35,7 +35,7 @@
     - **Problem Solving**
     - **HTTP (Protocols. & Codes)**
 
-- 📫 How to reach me **salahmedamin2019@gmail.com**
+- 📫 How to reach me? **salahmedamin2019@gmail.com**
 
 - ⚡ Fun fact: **Wokring on things I love, makes me lose sleep**
 
