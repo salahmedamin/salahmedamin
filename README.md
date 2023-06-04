@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Mohamed Amine Salah</h1>
+<h1 align="center">Greetings, I am Mohamed Amine Salah</h1>
 <h3 align="center">A person adoring all about JS, Data Viz and probably a bit of JAVA too</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahmedamin&label=Profile%20views&color=0e75b6&style=flat" alt="salahmedamin" /> </p>
