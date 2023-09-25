@@ -5,35 +5,33 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahmedamin" alt="salahmedamin" /></a> </p>
 
-- 🔭 I’m currently working on **House Rental/Selling Platform** having:
+- 🔭 I’m currently working on **RentBNB House Rental Platform** having:
     - **Real time user interactions (system notifications, preferred categories' notifications, messages, reports,...)**
     - **An integrated map synched with database**
     - **Booking system with a bidding feature to be integrated in near future**
-
-- 🏁 I’m making a progress on a **Feed & Stories Mockup** personal project:
-
-    - 🔗 **Feed: https://vercel-nice-comments.vercel.app/feed**
-
-    - 🔗 **Stories: https://vercel-nice-comments.vercel.app/stories**
 
 - 🌱 I’m currently practicing:
     - **Springboot**
     - **Kafka**
 
 - 💬 Ask me about:
-    - **ReactJS**
-    - **Redux**
     - **NodeJS**
-    - **Socket.io**
-    - **Prisma.io**
-    - **GraphQL**
-    - **SQL**
     - **PHP**
     - **Python**
+    - **ReactJS**
+    - **Redux**
+    - **Prisma.io**
+    - **SQL**
+    - **PostgreSQL**
     - **Grafana**
+    - **Metabase**
+    - **Socket.io**
+    - **API Gateway**
+    - **GraphQL**
     - **Clean Code**
     - **Problem Solving**
     - **HTTP (Protocols. & Codes)**
+    - **System architecture & design**
 
 - 📫 How to reach me? **salahmedamin2019@gmail.com**
 
