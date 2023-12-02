@@ -5,14 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahmedamin" alt="salahmedamin" /></a> </p>
 
-- 🔭 I’m currently working on **RentBNB House Rental Platform** having:
-    - **Real time user interactions (system notifications, preferred categories' notifications, messages, reports,...)**
-    - **An integrated map synched with database**
-    - **Booking system with a bidding feature to be integrated in near future**
+- 🔭 I’m currently working on **RentBnB House Rental Platform** having:
+    - **Real time user interactions (system notifications, preferred categories' notifications, messages, reports,)**
+    - **Async jobs to get data insights of data present on platform to optimize/enhance user experience**
+    - **OpenStreetMap map sync'd with database and external APIs to make searching, locating and renting easier**
+    - **Booking system with a payment service to be integrated in near future**
+    - **Statistics dashboard using Grafana behind a Reverse Proxy to secure access to specific dashboards**
 
-- 🌱 I’m currently practicing:
-    - **Springboot**
-    - **Kafka**
+- 🌱 I’m currently practing, admiring and learning more about:
+    - **System design**
+    - **Architecture optimisation based on Reverse Engineering**
+    - **Securing web apps**
 
 - 💬 Ask me about:
     - **NodeJS**
